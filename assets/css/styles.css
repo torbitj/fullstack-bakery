@@ -63,6 +63,11 @@ article p {
   font-size: 1.5em;
 }
 
+footer {
+  height: 8vh;
+  font-size: 1.25em;
+}
+
 .brand {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 2.5em;
