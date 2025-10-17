@@ -5,7 +5,8 @@ body {
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: darkblue;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: column;
+  /* flex-wrap: wrap; */
   /* justify-content: space-between; */
 }
 
@@ -65,7 +66,11 @@ article p {
 
 footer {
   height: 8vh;
+  width: 100%;
+  background-color: #0069cc;
   font-size: 1.25em;
+  color: #ebebeb;
+  text-align: center;
 }
 
 .brand {
