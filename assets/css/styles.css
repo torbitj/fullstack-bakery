@@ -26,8 +26,6 @@ nav {
 
 nav a {
   padding: 8px;
-  background-color: darkblue;
-  color: lightgray;
   text-decoration: none;
   border-radius: 15px;
 }
