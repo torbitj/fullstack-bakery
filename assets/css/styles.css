@@ -25,11 +25,10 @@ nav {
 }
 
 nav a {
-  padding: 5px;
+  padding: 8px;
   background-color: darkblue;
   color: lightgray;
   text-decoration: none;
-  border: 0.5px solid;
   border-radius: 15px;
 }
 
