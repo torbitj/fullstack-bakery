@@ -1,6 +1,6 @@
 body {
   height: 100vh;
-  margin: 0 15px;
+  margin: 0;
   background-color: lightgray;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: darkblue;
@@ -10,10 +10,14 @@ body {
 }
 
 header {
-  width: 100%;
   display: flex;
   justify-content: space-between;
   align-items: center;
+}
+
+header,
+main {
+  margin: 0 15px;
 }
 
 nav {
@@ -63,7 +67,7 @@ article p {
 
 footer {
   display: flex;
-  width: 100%;
+  width: 100vw;
   height: 10%;
   background-color: #0069cc;
   font-size: 1.25em;
