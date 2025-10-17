@@ -146,7 +146,7 @@ li:hover {
   nav a {
     display: none;
   }
-  img {
+  #bars {
     display: initial;
   }
 }
