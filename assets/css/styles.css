@@ -68,3 +68,10 @@ article p {
   text-transform: uppercase;
   margin: 0;
 }
+
+.testimonial {
+  padding: 10px;
+  background-color: #ededed;
+  border-radius: 15px;
+  box-shadow: 3px 3px 3px gray;
+}
