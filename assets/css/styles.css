@@ -16,6 +16,11 @@ header {
   align-items: center;
 }
 
+nav {
+  display: flex;
+  width: 30vw;
+}
+
 .brand {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 2em;
