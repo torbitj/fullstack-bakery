@@ -23,6 +23,13 @@ nav {
   justify-content: space-between;
 }
 
+nav a {
+  background-color: darkblue;
+  color: lightgray;
+  text-decoration: none;
+  border: 0.5px solid;
+}
+
 .brand {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 2em;
