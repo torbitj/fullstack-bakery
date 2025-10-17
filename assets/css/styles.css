@@ -26,7 +26,6 @@ nav {
 }
 
 nav a {
-  padding: 8px;
   text-decoration: none;
   border-radius: 15px;
 }
@@ -40,8 +39,16 @@ main {
 aside ul {
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
   list-style-type: none;
   gap: 2ch;
+}
+
+li {
+  width: 100%;
+  border: solid;
+  padding: 8px;
+  text-align: center;
 }
 
 .brand {
