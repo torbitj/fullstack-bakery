@@ -74,4 +74,6 @@ article p {
   background-color: #ededed;
   border-radius: 15px;
   box-shadow: 3px 3px 3px gray;
+  font-style: italic;
+  font-size: 1.25em;
 }
