@@ -40,7 +40,7 @@ aside ul {
   flex-direction: column;
   align-items: flex-end;
   list-style-type: none;
-  gap: 2ch;
+  gap: 1ch;
 }
 
 li {
