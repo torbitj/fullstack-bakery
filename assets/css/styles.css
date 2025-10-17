@@ -26,9 +26,7 @@ nav {
 }
 
 nav a {
-  padding: 8px;
   text-decoration: none;
-  border-radius: 15px;
 }
 
 main {
@@ -40,8 +38,19 @@ main {
 aside ul {
   display: flex;
   flex-direction: column;
+  align-items: flex-end;
   list-style-type: none;
-  gap: 2ch;
+  gap: 1ch;
+}
+
+li {
+  width: 100%;
+  padding: 8px;
+  background-color: #003dcc;
+  color: #ededed;
+  font-size: 1.75em;
+  text-align: center;
+  border-radius: 15px;
 }
 
 .brand {
