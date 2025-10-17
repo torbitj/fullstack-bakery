@@ -164,3 +164,20 @@ li:hover {
     display: initial;
   }
 }
+
+@media screen and (max-width: 480px) {
+  li {
+    font-size: 0.75em;
+  }
+  footer {
+    font-size: 1em;
+  }
+  article h1,
+  .brand {
+    font-size: 1em;
+  }
+  article p,
+  .testimonial {
+    font-size: 1em;
+  }
+}
