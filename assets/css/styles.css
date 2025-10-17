@@ -1,11 +1,12 @@
 body {
+  height: 100vh;
+  margin: 0 15px;
   background-color: lightgray;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   color: darkblue;
   display: flex;
   flex-wrap: wrap;
-  height: 100vh;
-  margin: 0 15px;
+  
 }
 
 header {
@@ -28,6 +29,12 @@ nav a {
   padding: 8px;
   text-decoration: none;
   border-radius: 15px;
+}
+
+main {
+  display: flex;
+  height: 84vh;
+  gap: 3ch;
 }
 
 .brand {
