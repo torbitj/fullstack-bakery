@@ -146,6 +146,20 @@ li:hover {
   nav a {
     display: none;
   }
+  li {
+    font-size: 0.75em;
+  }
+  footer {
+    font-size: 1em;
+  }
+  article h1,
+  .brand {
+    font-size: 1em;
+  }
+  article p,
+  .testimonial {
+    font-size: 1em;
+  }
   #bars {
     display: initial;
   }
