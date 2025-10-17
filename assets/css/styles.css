@@ -7,3 +7,11 @@ body {
   height: 100vh;
   margin: 0 15px;
 }
+
+header {
+  width: 100vw;
+  height: 8vh;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
