@@ -45,9 +45,13 @@ aside ul {
 }
 
 li {
+  
   width: 100%;
   border: solid;
   padding: 8px;
+  background-color: #003dcc;
+  color: #ededed;
+  font-size: 1.5em;
   text-align: center;
 }
 
