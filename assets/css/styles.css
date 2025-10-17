@@ -20,4 +20,5 @@ header {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 2em;
   text-transform: uppercase;
+  margin: 0;
 }
