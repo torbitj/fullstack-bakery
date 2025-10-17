@@ -1,6 +1,6 @@
 # Fullstack Bakery
 
-![](images/example.png)
+![](assets/images/example.png)
 
 In this workshop, you'll be using flexbox to style the front page of a fictional
 bakery named Fullstack Bakery.
