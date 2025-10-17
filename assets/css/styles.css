@@ -37,6 +37,11 @@ main {
   gap: 3ch;
 }
 
+aside ul {
+  display: flex;
+  flex-direction: column;
+}
+
 .brand {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 2.5em;
