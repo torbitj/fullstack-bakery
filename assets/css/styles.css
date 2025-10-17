@@ -95,3 +95,13 @@ footer {
 }
 
 /* Pseudo */
+
+a:hover {
+  text-shadow: 2px 2px 2px #0069cc;
+}
+
+a:active {
+  color: #0069cc;
+  text-shadow: none;
+}
+
