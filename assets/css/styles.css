@@ -126,7 +126,11 @@ li:hover {
 
 @media screen and (max-width: 768px) {
   nav {
-    font-size: 1.2em;
+    width: 20%;
+    justify-content: flex-end;
+  }  
+  nav a {
+    display: none;
   }
   .brand,
   article h1 {
@@ -136,16 +140,12 @@ li:hover {
   .testimonial {
     font-size: 1.3em;
   }
+  #bars {
+    display: initial;
+  }
 }
 
 @media screen and (max-width: 640px) {
-  nav {
-    width: 20%;
-    justify-content: flex-end;
-  }  
-  nav a {
-    display: none;
-  }
   li {
     font-size: 1.2em;
   }
@@ -159,9 +159,6 @@ li:hover {
   article p,
   .testimonial {
     font-size: 1.2em;
-  }
-  #bars {
-    display: initial;
   }
 }
 
