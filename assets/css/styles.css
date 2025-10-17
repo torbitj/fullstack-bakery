@@ -21,9 +21,11 @@ nav {
   display: flex;
   width: 35vw;
   justify-content: space-between;
+  align-items: center;
 }
 
 nav a {
+  padding: 5px;
   background-color: darkblue;
   color: lightgray;
   text-decoration: none;
