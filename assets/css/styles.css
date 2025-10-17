@@ -140,6 +140,7 @@ li:hover {
 
 @media screen and (max-width: 640px) {
   nav {
+    width: 20%;
     justify-content: flex-end;
   }  
   nav a {
