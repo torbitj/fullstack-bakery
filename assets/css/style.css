@@ -181,6 +181,9 @@ li:hover {
   .testimonial {
     font-size: 1em;
   }
+  .testimonial {
+    margin: 12px 15px;
+  }
 }
 
 @media screen and (max-width: 400px) {
@@ -193,8 +196,5 @@ li:hover {
   }
   blockquote {
     margin: 0;
-  }
-  .testimonial {
-    margin: 12px 15px;
   }
 }
