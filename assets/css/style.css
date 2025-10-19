@@ -169,12 +169,9 @@ li:hover {
   footer {
     font-size: 1em;
   }
-    header,
+  header,
   main {
     margin: 3px;
-  }
-  article {
-    max-width: 200px;
   }
   article h1,
   .brand {
@@ -183,5 +180,21 @@ li:hover {
   article p,
   .testimonial {
     font-size: 1em;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  article {
+    max-width: 185px;
+  }
+  article p,
+  .testimonial {
+    font-size: .75em;
+  }
+  blockquote {
+    margin: 0;
+  }
+  .testimonial {
+    margin: 12px 15px;
   }
 }
