@@ -169,6 +169,13 @@ li:hover {
   footer {
     font-size: 1em;
   }
+    header,
+  main {
+    margin: 3px;
+  }
+  article {
+    max-width: 200px;
+  }
   article h1,
   .brand {
     font-size: 1em;
